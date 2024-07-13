@@ -12,3 +12,12 @@ Les _Nakama_ sont par extension, les camarades de l'IT.
 Pour créer ou contribuer à un projet, il suffit d'en demander l'accès à l'équipe informatique de l'établissement.
 
 Sauf mentions contraires dans un dépôts, nous codons en anglais (variables, commentaires, références, etc… En anglais), mais les sorties standard et erreur peuvent être en français.
+
+
+## Bonus
+
+> _Pilule bleue, tout s'arrête, tu crois ce que tu veux. Pilule rouge, tu reste dans le pays des merveille et je te montre à quel point le terrier est profond._
+> — Morphéus, The Matrix
+
+> _Sous ce masque, il y a plus que de la chair. Sous ce masque, il y a une idée, et les idées sont à l'épreuve des balles._
+> — Guy Fawkes, V pour Vendetta
