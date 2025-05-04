@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Calque_1" x="0px" y="0px" viewBox="0 0 1200 1200" style="enable-background:new 0 0 595.28 841.89;" width="500px" height="500px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="71.607" y1="357.545" x2="71.607" y2="443.315" id="gradient-0" gradientTransform="matrix(0.808166, -0.594542, 0.585499, 0.81104, -212.942628, 110.894204)">
+      <stop offset="0" style="stop-color: rgb(8.2353% 48.235% 76.863%)"/>
+      <stop offset="1" style="stop-color: rgb(220, 27, 120);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="104.277" y1="358.897" x2="104.277" y2="477.877" id="gradient-1" gradientTransform="matrix(0.819688, -0.578243, 0.379296, 0.547918, -150.594483, 219.527101)">
+      <stop offset="0" style="stop-color: rgb(8.2353% 48.235% 76.863%)"/>
+      <stop offset="1" style="stop-color: rgb(220, 27, 120);"/>
+    </linearGradient>
+  </defs>
+  <style type="text/css">.st0{fill:#FFFFFF;}.st1{fill:none;stroke:#FFFFFF;stroke-width:0.8624;stroke-miterlimit:10;}</style>
+  <ellipse style="fill: rgb(255, 255, 255);" cx="600" cy="600" rx="600" ry="600" id="object-0"/>
+  <g id="XMLID_185_" style="transform-origin: 42.3px 355.34px;" transform="matrix(7.079855, 0, 0, 7.01334, 229.620285, -171.675461)">
+    <path id="XMLID_204_" class="st1" d="M 42.3 355.34 L 42.3 411.79 L 42.3 411.79 C 42.3 422.42 45.08 432.27 49.26 441.11 L 135.03 355.34 L 42.3 355.34 Z" style="fill: url(&quot;#gradient-0&quot;); stroke-miterlimit: 4; stroke-width: 1.00077px; stroke: none; transform-origin: 42.3px 355.34px;"/>
+    <path id="XMLID_203_" class="st0" d="M 135.03 367.02 L 53.32 448.73 C 67.01 471.66 88.58 486 88.58 486 L 88.75 486 C 88.75 486 135.03 455.26 135.03 411.79 L 135.01 411.79 L 135.03 367.02 Z" style="fill: url(&quot;#gradient-1&quot;); transform-origin: 42.3px 355.34px;"/>
+  </g>
+</svg>
